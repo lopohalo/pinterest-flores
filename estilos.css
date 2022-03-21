@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500&family=M+PLUS+Rounded+1c:wght@100&family=Roboto:wght@500;900&display=swap');
+.imagenes{
+    margin-bottom: 5px
+}
+.paginador{
+    margin-top: 12px
+}
+
+.titulo{
+    font-family: 'Dancing Script', cursive;
+    font-size:22px
+}
